@@ -13,7 +13,7 @@ With this particular implementation, there are "modules," which are the individu
 
 Each tile has a numerical ID to each edge. This is how adjacency rules work - these IDs have to match with every neighboring pair of tiles. If a tile has a "1" edge, the tile neighboring that edge also needs a "1" touching it.
 
-Near the top of the code is defined a large array of Module objects. There is an int[] of 4 numbers that defines the edge IDs, then a name for the module (which tells the program what .svg to associate with that module), and finally a number from 0 to 1 that weights how frequently the "random tile" option will pick it.
+Near the top of the code is defined a large array of Module objects. There is an int[] of 4 numbers that defines the edge IDs, then a name for the module (which tells the program what .svg to associate with that module), and finally a number from 0 to 1 which is a weight for the random tile picker. Edges are ordered counter-clockwise, starting on the right.
 
 # Copyright
 
