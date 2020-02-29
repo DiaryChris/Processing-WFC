@@ -7,4 +7,7 @@ I went to architecture school, not programming school, so I make no claims about
 I don't really remember how it all works and I never intended to publish this, but here it is!
 
 
+When running, press Q to show a list of options.
+
+
 https://creativecommons.org/licenses/by/4.0/
