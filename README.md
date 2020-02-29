@@ -5,3 +5,6 @@ Wave Function Collapse, at least as far as this program is concerned, is tileset
 
 I went to architecture school, not programming school, so I make no claims about the quality of this code.
 I don't really remember how it all works and I never intended to publish this, but here it is!
+
+
+https://creativecommons.org/licenses/by-sa/4.0/
