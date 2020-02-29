@@ -252,9 +252,9 @@ class Slot {  //defines an individual square on the final piece.
   }
 }
 
-final int gridWidth = 3;
+final int gridWidth = 5;
 final int gridHeight = 5;
-final int gridSize = 240;
+final int gridSize = 160;
 Slot[][] grid;
 
 boolean showOptions = false;
@@ -266,7 +266,7 @@ boolean clicked = false;
 boolean export = false;
 
 void setup () {
-  size (720, 1200);
+  size (800, 800);
   //fullScreen();
   //frameRate(2);
   
