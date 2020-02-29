@@ -7,4 +7,4 @@ I went to architecture school, not programming school, so I make no claims about
 I don't really remember how it all works and I never intended to publish this, but here it is!
 
 
-https://creativecommons.org/licenses/by-sa/4.0/
+https://creativecommons.org/licenses/by/4.0/
